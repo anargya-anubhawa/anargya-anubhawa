@@ -1,27 +1,40 @@
+
 ### Hello, I am Anargya
 
-<img height="180px" alt="Err" src="https://media.tenor.com/images/7a68509a5b8afea7110867249a172185/tenor.gif" align="right"/>
+<a href="https://anargya.my.id">
+      <img src="src/banner_kanami-tea-party.jpg" alt="banner">
+</a>
 
 I am interested in learning new things.
 
 I am indulged in web developement from past one years. Also i have learned few more languages recently.
-<img align="center" style="padding:0;" src="https://github-readme-stats.vercel.app/api?username=anargya-anubhawa&show_icons=true&theme=radical&hide=issues&hide_border=true" alt="Github Stats">
 
-<img align="center" style="padding:0; height:50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anargya-anubhawa" alt="Github langs"/>
-### Skills :
+<a href="https://github.com/anargya-anubhawa">
+<img align="center" style="padding:0;" src="https://github-readme-stats.vercel.app/api?username=anargya-anubhawa&show_icons=true&theme=radical&hide=issues&hide_border=true" alt="Github Stats">
+</a>
+
+<img align="center" style="padding:0; height:50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anargya-anubhawa&theme=radical" alt="Github langs"/>
 
 <div style="align:left;">
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
-<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <p>
+    <a href="https://anargya.my.id">
+      <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
+    </a>
+    <a href="https://www.instagram.com/anargya.anubhawa">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="https://wa.me/message/MAKNJQWZ5ULVM1">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+    </a>
+    <a href="https://t.me/kaze000">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    </a>
+    <a href="https://blog.anargya.my.id">
+      <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger">
+    </a>
+  </p>
 
-<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 </div>
 
-### Contact Me
-
-I am mostly active on <a href="https://instagram.com/anargyaanubhawa">Instagram</a> you can directly DM me. And I have a small website, maybe you want to visit it <a href="https://anargya-anubhawa.github.io">Anargya Web</a>. 
+### Thanks You for Visiting My Profile 
