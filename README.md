@@ -1,9 +1,8 @@
-
-### Hello, I am Anargya
-
 <a href="https://anargya.my.id">
       <img src="src/banner_kanami-tea-party.jpg" alt="banner">
 </a>
+
+### Hello, I am Anargya
 
 I am interested in learning new things.
 
