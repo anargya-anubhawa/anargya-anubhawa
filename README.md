@@ -14,6 +14,7 @@ I am indulged in web developement from past one years. Also i have learned few m
 
 <img align="center" style="padding:0; height:50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anargya-anubhawa&theme=radical" alt="Github langs"/>
 
+<!--
 <div style="align:left;">
 
   <p>
@@ -35,5 +36,6 @@ I am indulged in web developement from past one years. Also i have learned few m
   </p>
 
 </div>
+-->
 
 ### Thanks You for Visiting My Profile 
